@@ -33,8 +33,15 @@ Turn your hand into a **virtual mouse**! This Python project uses **MediaPipe** 
 
 ## Installation
 
-1. Clone the repository:
-
 ```bash
 git clone https://github.com/yourusername/hand-tracking-cursor.git
 cd hand-tracking-cursor
+```
+
+---
+
+## Requirements
+
+```bash
+pip install -r requirements.txt
+
