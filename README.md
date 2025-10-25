@@ -13,21 +13,11 @@ Turn your hand into a **virtual mouse**! This Python project uses **MediaPipe** 
 
 ---
 
-## Demo
-
-🎥 Suggested preview:  
-
-1. Show the hand in front of the camera with a **green circle** highlighting the index finger  
-2. Move your hand → cursor moves smoothly  
-3. Pinch thumb + index → click occurs (show “CLICKED!” feedback)  
-4. Optional: click a browser tab, folder, or video to demonstrate interaction  
-
----
-
 ## Screenshots
 
-![Hand Tracking Cursor](screenshots/demo.png)  
-*Green circle highlights index finger; "CLICKED!" appears on click.*
+![Hand Tracking Cursor](Screenshots/screenshot1.png)  
+![Hand Tracking Cursor](Screenshots/screenshot2.png)  
+![Hand Tracking Cursor](Screenshots/screenshot3.png)  
 
 ---
 
