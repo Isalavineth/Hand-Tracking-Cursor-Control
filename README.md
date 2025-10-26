@@ -25,7 +25,6 @@ Turn your hand into a **virtual mouse**! This Python project uses **MediaPipe** 
 
 ```bash
 git clone https://github.com/Isalavineth/Hand-Tracking-Cursor-Control.git
-cd hand-tracking-cursor
 ```
 
 ---
