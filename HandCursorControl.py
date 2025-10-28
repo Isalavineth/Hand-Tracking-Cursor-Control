@@ -6,7 +6,7 @@ import threading
 import math
 
 # Initializing video capture
-capture = cv2.VideoCapture(2) # Use index 1 for integrated camera
+capture = cv2.VideoCapture(2) # Use index 0 for integrated camera
 
 
 # Mediapipe hand tracking setup
